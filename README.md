@@ -1,2 +1,5 @@
 # hello-world
-test_repo
+
+Hi everyone!
+
+Farukh here, I want to learn some things about git and developement
